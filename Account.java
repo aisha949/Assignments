@@ -38,7 +38,7 @@ public class Account{
 			return customerName;
 			
 		}
-		public static balance main(String[] args){
+		public balance main(String[] args){
 			return balance;
 			    if(balance>=amount)
 				System.out.println(amount-balance);

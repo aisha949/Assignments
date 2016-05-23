@@ -64,7 +64,7 @@ public class Person{
 	 		public double getpay(){
 	 			return pay;
 	 		}
-	 		public void setschool(String newSchool){
+	 		public voids setschool(String newSchool){
 	 			this.school=newSchool;
 	 		}
 	 		public void setpay(double newPay){
